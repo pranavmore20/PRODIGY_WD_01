@@ -1,0 +1,23 @@
+.stopwatch {
+    text-align: center;
+}
+
+#display {
+    font-size: 40px;
+    margin: 10px;
+}
+
+button {
+    font-size: 8px;
+    margin: 5px;
+}
+
+.laps 
+{
+    list-style: lower-roman;
+    padding: 0;
+}
+.container
+{
+    text-align: center;
+}
